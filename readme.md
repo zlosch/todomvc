@@ -1,83 +1,43 @@
-# ![TodoMVC](media/logo.png)
+# SAPUI5/OpenUI5 • [TodoMVC](http://todomvc.com)
 
-> Helping you select an MV\* framework
-
-### [Website](http://todomvc.com)&nbsp;&nbsp;&nbsp;&nbsp;[Blog](http://blog.tastejs.com)&nbsp;&nbsp;&nbsp;&nbsp;[TasteJS](http://tastejs.com)
-
-[![Build Status](https://travis-ci.org/tastejs/todomvc.svg)](https://travis-ci.org/tastejs/todomvc)
-
-
-Developers these days are spoiled with choice when it comes to selecting an MV\* framework for structuring and organizing JavaScript web apps.
-
-Backbone, Ember, AngularJS... the list of new and stable solutions goes on and on, but just how do you decide on which to use in a sea of so many options?
-
-To help solve this problem, we created TodoMVC - a project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV\* frameworks of today.
-
-
-## Team
-
-TodoMVC would not be possible without a strong team of [contributors](https://github.com/tastejs/todomvc/contributors) helping push the project forward each day. In addition, we have a core project team composed of:
-
-#### [Addy Osmani](http://github.com/addyosmani) - Founder/Lead
-
-<img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275.png?s=40">
-  Addy is a Software Engineer at Google who originally created TodoMVC. He oversees the project direction, maintenance and organizes the planning and development efforts of the team.
-
-#### [Sindre Sorhus](https://github.com/sindresorhus) - Lead Developer
-
-<img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9.png?s=40">
-Sindre is a Web Developer who leads core development, quality control and application design for the project. His engineering contributions have helped us ensure consistency and best practices are enforced wherever possible. Sindre also leads up development of the TodoMVC application spec.
-
-#### [Pascal Hartig](https://github.com/passy) - Developer
-
-<img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/be451fcdbf0e5ff07f23ed16cb5c90a3.png?s=40">
-Pascal is a Software Engineer at Twitter with a deep passion for consistency. He watches pull requests and helps developers getting their contributions integrated with TodoMVC.
-
-#### [Stephen Sawchuk](https://github.com/stephenplusplus) - Developer
-
-<img align="left" width="40" height="40" src="https://avatars3.githubusercontent.com/u/723048?v=2&s=40">
-Stephen is a Front-end Engineer at Quicken Loans that cares about improving the maintainability and developer experience of open-source projects. His recent contributions include helping us move all apps over to using Bower and implementing the new information bar.
-
-#### [Colin Eberhardt](https://github.com/colineberhardt) - Developer
-
-<img align="left" width="40" height="40" src="https://secure.gravatar.com/avatar/73bba00b41ff1c9ecc3ee29487bace7d?s=40">
-Colin is a software consultant at Scott Logic who is passionate about all software - from JavaScript to Java, and C# to Objective-C. His recent contribution to the project has been a fully automated test suite.
-
-#### [Sam Saccone](https://github.com/samccone) - Developer
-
-<img align="left" width="40" height="40" src="http://en.gravatar.com/userimage/602125/f2f1d93164ec62b527f0398c65b2d1f3.jpg?size=40">
-Sam is a Software Engineer at Google who is driven by an endless desire to create, solve problems, and improve developers' lives.
-
-#### [Arthur Verschaeve](https://github.com/arthurvr) - Developer
-
-<img align="left" width="40" height="40" src="https://en.gravatar.com/avatar/e34daab0d2e344219adb5234198269c5?size=40">
-Arthur is an open-source fanboy from Belgium. He is passionate about developer tooling and all things JavaScript.
-
-#### [Gianni Chiappetta](https://github.com/gf3) - Logo designer
-
-<img align="left" width="40" height="40" src="http://www.gravatar.com/avatar/4b0209ae3652cc5a7d53545e759fbe39.png?s=40">
-Gianni is a programmer and designer currently working as the Chief Rigger at MetaLab.
-
-## Disclaimer
-
-<img align="right" width="230" height="230" src="media/icon-small.png">
-
-TodoMVC has been called many things including the 'Speed-dating' and 'Rosetta Stone' of MV\* frameworks. Whilst we hope that this project is able to offer assistance in deciding what frameworks are worth spending more time looking at, remember that the Todo application offers a limited view of what a framework may be capable of.
-
-It is meant to be used as a gateway to reviewing how a basic application using a framework may be structured and we heavily recommend investing time researching a solution in more depth before opting to use it.
-
-Also, please keep in mind that TodoMVC is not the perfect way to compare the size of different frameworks. We intentionally use the unminified versions to make reading the source code easier.
+> The UI development toolkit for HTML5 (SAPUI5) is a platform for developing rich user interfaces for modern Web business applications.
+> SAPUI5 has the following advantages:
+> - SAPUI5 is an enterprise-ready web toolkit with powerful development concepts:
+>   - Built-in extensibility concepts at code and application level
+>   - Data binding types and Model-View-Controller (MVC)
+>   - Full translation support
+>   - Keyboard interaction support and accessiblity features
+>   - And many more....
+> - Apps developed with SAPUI5 present one consistent user experience.
+> - SAPUI5 comes with many feature-rich UI controls for handling complex UI patterns and predefined layouts for typical use cases.
+> - Apps built with SAPUI5 are responsive across browsers and devices - they run on smartphones, tablets, and desktops. The UI controls automatically adapt themselves to the capabilities of each device.
 
 
-## Getting Involved
+## Resources
 
-Whilst we enjoy implementing and improving existing Todo apps, we're always interested in speaking to framework authors (and users) wishing to share Todo app implementations in their framework/solution of choice.
+- [SAPUI5](https://sapui5.netweaver.ondemand.com/sdk/#docs/guide/95d113be50ae40d5b0b562b84d715227.html)
+- [OpenUI5](http://openui5.org/): The open source version of SAPUI5
+- [SAPUI5 SDK](https://sapui5.netweaver.ondemand.com/sdk)
 
-Check out our [contribution docs](contributing.md) for more info.
+
+### Articles
+
+- [What is SAPUI5/OpenUI5](http://scn.sap.com/community/developer-center/front-end/blog/2013/12/11/what-is-openui5-sapui5)
+
+### Support
+
+- [SAPUI5 Developer Center](http://scn.sap.com/community/developer-center/front-end)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/sapui5)
+- [OpenUI5 on Twitter](https://twitter.com/OpenUI5)
+
+*Let us [know](https://github.com/tastejs/todomvc/issues) if you discover anything worth sharing.*
 
 
-## License
+## Implementation
 
-Everything in this repo is MIT License unless otherwise specified.
+[A detailed article on the SAPUI5 TodoMVC implementation](http://scn.sap.com/community/developer-center/front-end/blog/2013/03/19/how-to-build-testable-sapui5-applications)
 
-MIT © Addy Osmani, Sindre Sorhus, Pascal Hartig, Stephen Sawchuk.
+
+## Credit
+
+Created by [Harald Schubert](http://scn.sap.com/people/harald.schubert) [@haraldschubert](https://twitter.com/haraldschubert)

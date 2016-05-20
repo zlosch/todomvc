@@ -1,0 +1,7 @@
+{
+  "hcpdeploy": {
+    "account": "d050419sapdev",
+    "name": "todomvc",
+    "lastVersionWeTriedToDeploy": "1.0.0"
+  }
+}

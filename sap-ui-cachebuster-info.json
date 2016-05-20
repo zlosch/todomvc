@@ -1,0 +1,16 @@
+{
+  "bower_components/todomvc-common/base.css": "1463727390000",
+  "bower_components/todomvc-common/base.js": "1463727392000",
+  "bower_components/todomvc-common/bg.png": "1463727396000",
+  "css/base.css": "1463727395000",
+  "bower.json": "1463727387000",
+  "js/todo/Todo.view.js": "1463727387000",
+  "js/todo/SmartTextField.js": "1463727387000",
+  "js/todo/TodoPersistency.js": "1463737033000",
+  "js/todo/Todo.controller.js": "1463727395000",
+  "js/todo/formatters.js": "1463727398000",
+  "js/app.js": "1463727390000",
+  "index.html": "1463727394000",
+  "readme.md": "1463727389000",
+  "img/bg.png": "1463727388000"
+}

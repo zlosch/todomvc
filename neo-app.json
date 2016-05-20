@@ -1,0 +1,10 @@
+{
+	"authenticationMethod": "saml",
+	"routes": [{
+		"path": "/storage",
+		"target": {
+			"type": "destination",
+			"name": "todomvc-storage"
+		}
+	}]
+}
